@@ -4,3 +4,4 @@ Start JS-3 関数の勉強
 Start JS-4
 Start JS-5
 Finish JS-5
+Start JS-6
